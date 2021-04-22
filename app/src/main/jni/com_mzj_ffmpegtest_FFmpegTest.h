@@ -9,11 +9,11 @@ extern "C" {
 #endif
 /*
  * Class:     com_mzj_ffmpegtest_FFmpegTest
- * Method:    getFFmpegCodecInfo
+ * Method:    deCodeVideo
  * Signature: ()Ljava/lang/String;
  */
-JNIEXPORT jstring JNICALL Java_com_mzj_ffmpegtest_FFmpegTest_getFFmpegCodecInfo
-  (JNIEnv *, jclass);
+JNIEXPORT void JNICALL Java_com_mzj_ffmpegtest_FFmpegTest_deCodeVideo
+  (JNIEnv *, jclass,jstring,jobject);
 
 #ifdef __cplusplus
 }

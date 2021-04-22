@@ -31,7 +31,14 @@ D:/studio_space/FFmpegTest/app/src/main/obj/local/armeabi-v7a/objs/ffmpeg_test/f
   D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavutil\channel_layout.h \
   D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavutil\dict.h \
   D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavutil\frame.h \
-  D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavcodec\version.h
+  D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavcodec\version.h \
+  D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavformat\avformat.h \
+  D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavformat\avio.h \
+  D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavformat\version.h \
+  D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavutil\imgutils.h \
+  D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavutil\pixdesc.h \
+  D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libswscale\swscale.h \
+  D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libswscale\version.h
 
 D:\studio_space\FFmpegTest\app\src\main\jni\com_mzj_ffmpegtest_FFmpegTest.h:
 
@@ -96,3 +103,17 @@ D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavutil\dict.h:
 D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavutil\frame.h:
 
 D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavcodec\version.h:
+
+D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavformat\avformat.h:
+
+D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavformat\avio.h:
+
+D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavformat\version.h:
+
+D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavutil\imgutils.h:
+
+D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libavutil\pixdesc.h:
+
+D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libswscale\swscale.h:
+
+D:\studio_space\FFmpegTest\app\src\main\jni\include\ffmpeg\libswscale\version.h:
