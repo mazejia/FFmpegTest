@@ -20,6 +20,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".FFmpegVideoActivity">
+        </activity>
+
+        <activity android:name=".FFmpegAudioActivity">
+        </activity>
+
     </application>
 
 </manifest>

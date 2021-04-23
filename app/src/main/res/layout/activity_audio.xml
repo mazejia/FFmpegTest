@@ -7,24 +7,13 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/btn_video"
+        android:id="@+id/btn_play"
         android:layout_width="wrap_content"
-        android:layout_height="40dp"
-        android:text="视频解码+NDK渲染"
+        android:layout_height="wrap_content"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="150dp"/>
-
-    <Button
-        android:id="@+id/btn_audio"
-        android:layout_width="wrap_content"
-        android:layout_height="40dp"
-        android:text="音频播放+AudioTrack播放"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/btn_video"
-        android:layout_marginTop="50dp"/>
-
+        android:layout_marginTop="150dp"
+        android:text="开始" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
